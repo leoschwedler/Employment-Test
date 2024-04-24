@@ -1,0 +1,3 @@
+package com.example.desafio_testedeemprego.model
+
+class DescriptionAnnotations
